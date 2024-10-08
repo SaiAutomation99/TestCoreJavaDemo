@@ -2,7 +2,7 @@ package com.classname;
 
 import java.util.Scanner;
 
-//we have achieve the datahiding by making the data members as private
+//we can achieve the datahiding by making the data members as private
 //we can create the getters and setters to call the datamembers
 public class ImplementDataHiding_Demo2 {
 	
