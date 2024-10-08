@@ -2,6 +2,16 @@ package com.corejavademo;
 
 import java.util.Scanner;
 
+
+//allowed data types for the switch statement
+//byte, short,char ,int - 1.4v
+//byte,shorrt,Character,Integer,enum  - 1.5v
+//byte,short,Character,Integer,String   - 1.7v
+
+//Not Allowed Data types
+//boolean, long,float,double
+
+
 public class SwitchCase2 {
 
 	public static void main(String[] args) {
